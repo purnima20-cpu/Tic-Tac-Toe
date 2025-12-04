@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 simple Tic Tac Toe game using python.
 <br>
-Author-Purnima Bohara
+Author-Purnima Bohara(Apna College)
 # Tic Tac Toe in Python (2-player console version)
 
 def print_board(board):
